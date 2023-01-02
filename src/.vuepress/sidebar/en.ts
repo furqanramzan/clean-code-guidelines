@@ -16,6 +16,18 @@ export const enSidebar = sidebar({
       prefix: "guide/",
       children: "structure",
     },
+    {
+      text: "Methods",
+      icon: "note",
+      prefix: "method/",
+      children: "structure",
+    },
+    {
+      text: "Practise",
+      icon: "note",
+      prefix: "practise/",
+      children: "structure",
+    },
     "slides",
   ],
 });
