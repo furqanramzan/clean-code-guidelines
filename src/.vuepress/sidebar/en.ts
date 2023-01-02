@@ -17,15 +17,21 @@ export const enSidebar = sidebar({
       children: "structure",
     },
     {
-      text: "Methods",
-      icon: "note",
-      prefix: "method/",
-      children: "structure",
-    },
-    {
       text: "Practise",
       icon: "note",
       prefix: "practise/",
+      children: "structure",
+    },
+    {
+      text: "Principle",
+      icon: "note",
+      prefix: "principle/",
+      children: "structure",
+    },
+    {
+      text: "Methods",
+      icon: "note",
+      prefix: "method/",
       children: "structure",
     },
     "slides",
