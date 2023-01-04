@@ -37,7 +37,7 @@ Each level of nesting adds an abstraction layer, making it more challenging to i
 
 ## How avoid nesting code?
 
-Here are a few methods for denesting your code:
+Here are a few methods for de-nesting your code:
 
 - [Extraction Method](/method/extraction.md)
 
