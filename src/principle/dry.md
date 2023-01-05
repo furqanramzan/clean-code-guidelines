@@ -1,5 +1,5 @@
 ---
-title: DRY
+title: Don't Repeat Yourself
 icon: copy
 category:
   - Principle
@@ -7,7 +7,7 @@ category:
 
 ## Introduction
 
-DRY stands for "Don't Repeat Yourself". It is a software design principle that aims to reduce the repetition of information of all kinds. The DRY principle states that every piece of knowledge should have a single, unambiguous representation within a system. This allows the system to be more maintainable and reduces the risk of introducing errors.
+DRY is a software design principle that aims to reduce the repetition of information of all kinds. The DRY principle states that every piece of knowledge should have a single, unambiguous representation within a system. This allows the system to be more maintainable and reduces the risk of introducing errors.
 
 The idea behind the DRY principle is that if you have the same piece of information specified in multiple places, and you need to update it, you have to remember to update it in all those places. This can be error-prone and time-consuming. By ensuring that every piece of knowledge has a single representation, you can make updates in one place and be confident that the changes will be propagated throughout the system.
 

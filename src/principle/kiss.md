@@ -1,5 +1,5 @@
 ---
-title: KISS
+title: Keep It Simple, Stupid
 icon: article
 category:
   - Principle
@@ -7,7 +7,7 @@ category:
 
 ## Introduction
 
-The KISS principle is a design principle that stands for "Keep It Simple, Stupid". The principle is used to guide the design of systems, processes, and other things, and it advises designers to strive for simplicity and clarity rather than complexity.
+The KISS principle is used to guide the design of systems, processes, and other things, and it advises designers to strive for simplicity and clarity rather than complexity.
 
 The idea behind the KISS principle is that simple designs are often easier to understand, use, and maintain than complex ones. By keeping things simple, designers can reduce the risk of errors and mistakes, and can also make it easier for users to learn and use the system or process.
 

@@ -1,5 +1,5 @@
 ---
-title: SRP
+title: Single Responsibility
 icon: result
 category:
   - Principle
@@ -7,7 +7,7 @@ category:
 
 ## Introduction
 
-SRP stands for "Single Responsibility Principle". The single responsibility principle is a software design principle that states that every module or class in a computer program should have a single, well-defined responsibility. In other words, a class or module should have only one reason to change.
+The Single Responsibility Principle is a software design principle that states that every module or class in a computer program should have a single, well-defined responsibility. In other words, a class or module should have only one reason to change.
 
 The single responsibility principle is based on the idea that a class or module that has more than one responsibility is more complex and harder to maintain than a class or module with a single responsibility. This is because changes to one responsibility may have unintended consequences on the other responsibilities, leading to a ripple effect that can make the system more difficult to understand and modify.
 

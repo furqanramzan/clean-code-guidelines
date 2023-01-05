@@ -1,5 +1,5 @@
 ---
-title: ISP
+title: Interface Segregation
 icon: storage
 category:
   - Principle
