@@ -11,12 +11,6 @@ export const enSidebar = sidebar({
       children: "structure",
     },
     {
-      text: "Docs",
-      icon: "note",
-      prefix: "guide/",
-      children: "structure",
-    },
-    {
       text: "Practise",
       icon: "note",
       prefix: "practise/",
@@ -32,6 +26,18 @@ export const enSidebar = sidebar({
       text: "Methods",
       icon: "note",
       prefix: "method/",
+      children: "structure",
+    },
+    {
+      text: "Design Patterns",
+      icon: "note",
+      prefix: "design-pattern/",
+      children: "structure",
+    },
+    {
+      text: "Glossary",
+      icon: "note",
+      prefix: "glossary/",
       children: "structure",
     },
     "slides",
