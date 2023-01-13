@@ -21,6 +21,12 @@ Here are a few reasons why it is important to use comments wisely:
 
 - Outdated or incorrect comments can be misleading. If comments are not kept up to date with the code, they can provide incorrect information and lead to confusion.
 
+::: tip
+
+Don’t comment bad code, rewrite it. **Brian W. Kernighan and P. J. Plaugher**
+
+:::
+
 ## Self-Explanatory Code
 
 Comments should be good, but your code needs to be self-explanatory. Using self-explanatory code means writing code that is clear and easy to understand without the need for additional comments. This can make the code easier to read and maintain, and can help to prevent errors caused by outdated or incorrect comments.
