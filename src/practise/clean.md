@@ -51,4 +51,4 @@ A few of the broad guidelines to write clean code are:
 
 - If you use third-party wrap third-party code/API/libraries, wrap them, so if they change, only your wrapper implementation needs to change.
 
-- Code should always be separated with blank lines to club logical blocks together. Think of different lines of code as thoughts and then always think of organising similar thoughts together.
+- Code should always be separated with blank lines to club logical blocks together. Think of different lines of code as thoughts and then always think of organizing similar thoughts together.

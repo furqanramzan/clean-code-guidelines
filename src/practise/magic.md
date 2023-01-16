@@ -11,6 +11,8 @@ In programming, a magic number is a hard-coded numerical or string value that is
 
 Using magic numbers can make code more difficult to understand and maintain since it is not immediately clear what the numbers represent. It is generally considered a best practice to use named constants for values that are used frequently or that have special meaning in the code, rather than using magic numbers. This makes it easier for other developers to understand the code and helps to prevent errors that can be introduced if the values are accidentally changed.
 
+The same can be applied to conditions to make them more readable.
+
 ## Example
 
 Here is an example of code that uses magic numbers:
@@ -19,7 +21,7 @@ Here is an example of code that uses magic numbers:
 
 ::: danger
 
-```js
+```js {2-3}
 function calculateArea(width, height) {
   if (width < 0 || height < 0) {
     return -1;
@@ -38,10 +40,11 @@ Instead of using a magic number, it would be better to use a named constant to r
 
 ::: tip
 
-```js
+```js {2-5}
 function calculateArea(width, height) {
-  if (width < 0 || height < 0) {
-    const ERROR_VALUE = -1;
+  const IS_CALCULATEABLE = width < 0 || height < 0;
+  const ERROR_VALUE = -1;
+  if (IS_CALCULATEABLE) {
     return ERROR_VALUE;
   }
   return width * height;

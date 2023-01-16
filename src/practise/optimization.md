@@ -20,3 +20,9 @@ Premature optimization is generally considered to be a bad practice in software 
 Instead of focusing on premature optimization, it is often more effective to focus on writing clean, well-structured, and maintainable code. This allows you to build a solid foundation for your system, which can then be optimized as needed once it is in use and its performance characteristics are better understood.
 
 If you optimize your code in the beginning and case the requirement may change then your efforts will be wasted and your code will go into the garbage. So it’s better to optimize the algorithm at the right time to get the right benefit from it.
+
+::: tip
+
+Never optimize a program until it is correct, working and unless necessary.
+
+:::
