@@ -15,6 +15,12 @@ The KISS principle is often used in software development to help programmers wri
 
 Overall, the KISS principle is a useful reminder to strive for simplicity and clarity in design and to avoid adding unnecessary complexity that can make things harder to use and understand.
 
+::: tip
+
+After you finish the first 90% of a project, you have to finish the other 90%. **MICHAEL ABRASH**
+
+:::
+
 ## Example
 
 Here is an example of how the KISS principle might be applied in software development:

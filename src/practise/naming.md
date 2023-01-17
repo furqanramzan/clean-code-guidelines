@@ -23,6 +23,12 @@ Be consistent in naming and use the same convention.
 
 ## How to Create Meaningful Names?
 
+::: tip
+
+You should name a variable using the same care with which you name a first-born child. **James O. Coplien**
+
+:::
+
 Follow these rules to create meaningful variables, functions, and classes:
 
 ### Use Intention-Revealing Names

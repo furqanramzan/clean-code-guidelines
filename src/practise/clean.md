@@ -19,6 +19,12 @@ Programmers usually want to learn different programming languages. In today’s 
 
 You’re the author, you’re the artist of writing code. Improve your code writing every day. Each day is a new day to improve what you learned yesterday. Improve your coding day by day. Try to make it cleaner, more beautiful, and small every day. Be the best artist at writing source code. When you start to embrace this thinking, you tell yourself, "This can much be better". You make it better and better than starting to admire your code. You start feeling proud of yourself.
 
+::: tip
+
+One of the best programming skills you can have is knowing when to walk away for a while. **Oscar Godson**
+
+:::
+
 ## Don't Make Anyone Think
 
 The code should be easy to read and understand without much thinking. If it isn't then there is a prospect of simplification.
