@@ -1,6 +1,5 @@
 ---
 title: Dependability
-icon: workingDirectory
 category:
   - Glossary
 ---

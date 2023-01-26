@@ -1,6 +1,5 @@
 ---
 title: Reusability
-icon: workingDirectory
 category:
   - Glossary
 ---

@@ -1,6 +1,5 @@
 ---
 title: Exception
-icon: selection
 category:
   - Practise
 ---

@@ -1,6 +1,5 @@
 ---
 title: Booleans
-icon: folder
 category:
   - Practise
 ---

@@ -1,6 +1,5 @@
 ---
 title: Classes
-icon: array
 category:
   - Practise
 ---

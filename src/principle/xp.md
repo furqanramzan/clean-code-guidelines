@@ -1,6 +1,5 @@
 ---
 title: Extreme Programming
-icon: edit
 category:
   - Principle
 ---

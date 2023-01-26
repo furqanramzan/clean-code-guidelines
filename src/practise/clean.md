@@ -1,6 +1,5 @@
 ---
 title: Clean Code
-icon: ability
 category:
   - Practise
 ---

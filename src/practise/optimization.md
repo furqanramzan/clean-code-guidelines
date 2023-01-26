@@ -1,6 +1,5 @@
 ---
 title: Premature Optimization
-icon: customize
 category:
   - Practise
 ---

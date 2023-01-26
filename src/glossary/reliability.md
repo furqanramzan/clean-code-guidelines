@@ -1,6 +1,5 @@
 ---
 title: Reliability
-icon: workingDirectory
 category:
   - Glossary
 ---

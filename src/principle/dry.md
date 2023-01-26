@@ -1,6 +1,5 @@
 ---
 title: Don't Repeat Yourself
-icon: copy
 category:
   - Principle
 ---

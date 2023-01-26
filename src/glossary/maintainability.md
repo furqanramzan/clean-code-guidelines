@@ -1,6 +1,5 @@
 ---
 title: Maintainability
-icon: workingDirectory
 category:
   - Glossary
 ---

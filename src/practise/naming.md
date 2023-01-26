@@ -1,6 +1,5 @@
 ---
 title: Naming Convention
-icon: link
 category:
   - Practise
 ---

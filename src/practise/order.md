@@ -1,6 +1,5 @@
 ---
 title: Order Functions Logically
-icon: share
 category:
   - Practise
 ---

@@ -1,6 +1,5 @@
 ---
 title: FIRST Principles Of Testing
-icon: edit
 category:
   - Principle
 ---

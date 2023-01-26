@@ -1,6 +1,5 @@
 ---
 title: Functions
-icon: array
 category:
   - Practise
 ---

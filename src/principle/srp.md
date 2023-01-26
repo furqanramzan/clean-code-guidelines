@@ -1,6 +1,5 @@
 ---
 title: Single Responsibility
-icon: result
 category:
   - Principle
 ---

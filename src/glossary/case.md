@@ -1,6 +1,5 @@
 ---
 title: Letter Case
-icon: workingDirectory
 category:
   - Glossary
 ---

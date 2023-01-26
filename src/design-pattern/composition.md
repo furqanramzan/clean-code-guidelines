@@ -1,6 +1,5 @@
 ---
 title: Composition
-icon: condition
 category:
   - Design Pattern
 ---

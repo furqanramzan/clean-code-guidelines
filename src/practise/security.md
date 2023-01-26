@@ -1,6 +1,5 @@
 ---
 title: Security
-icon: float
 category:
   - Practise
 ---

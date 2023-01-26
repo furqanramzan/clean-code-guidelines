@@ -1,6 +1,5 @@
 ---
 title: Coupling
-icon: array
 category:
   - Glossary
 ---

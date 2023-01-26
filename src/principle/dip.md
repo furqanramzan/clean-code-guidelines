@@ -1,6 +1,5 @@
 ---
 title: Dependency Inversion
-icon: storage
 category:
   - Principle
 ---

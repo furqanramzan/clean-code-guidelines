@@ -1,6 +1,5 @@
 ---
 title: Scalability
-icon: workingDirectory
 category:
   - Glossary
 ---

@@ -1,6 +1,5 @@
 ---
 title: Usability
-icon: workingDirectory
 category:
   - Glossary
 ---

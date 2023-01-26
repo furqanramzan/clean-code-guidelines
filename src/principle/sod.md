@@ -1,6 +1,5 @@
 ---
 title: Separation of Concerns
-icon: geometry
 category:
   - Principle
 ---

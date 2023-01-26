@@ -1,6 +1,5 @@
 ---
 title: Law of Demeter
-icon: geometry
 category:
   - Principle
 ---

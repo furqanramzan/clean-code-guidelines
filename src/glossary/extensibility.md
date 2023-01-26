@@ -1,6 +1,5 @@
 ---
 title: Extensibility
-icon: workingDirectory
 category:
   - Glossary
 ---

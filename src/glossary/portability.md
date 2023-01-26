@@ -1,6 +1,5 @@
 ---
 title: Portability
-icon: workingDirectory
 category:
   - Glossary
 ---

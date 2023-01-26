@@ -1,6 +1,5 @@
 ---
 title: Open/Closed Principle
-icon: stack
 category:
   - Principle
 ---

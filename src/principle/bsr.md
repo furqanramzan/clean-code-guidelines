@@ -1,6 +1,5 @@
 ---
 title: Boy Scout Rule
-icon: edit
 category:
   - Principle
 ---

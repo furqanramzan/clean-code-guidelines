@@ -1,6 +1,5 @@
 ---
 title: Inversion Method
-icon: enum
 category:
   - Method
 ---

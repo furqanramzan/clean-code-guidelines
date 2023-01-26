@@ -1,6 +1,5 @@
 ---
 title: Efficiency
-icon: workingDirectory
 category:
   - Glossary
 ---

@@ -1,6 +1,5 @@
 ---
 title: Simplest Thing Possibly Work
-icon: edit
 category:
   - Principle
 ---

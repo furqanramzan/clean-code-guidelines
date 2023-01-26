@@ -1,6 +1,5 @@
 ---
 title: Code Nesting
-icon: align
 category:
   - Practise
 ---

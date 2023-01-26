@@ -1,6 +1,5 @@
 ---
 title: Keep It Simple, Stupid
-icon: article
 category:
   - Principle
 ---

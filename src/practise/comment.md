@@ -1,6 +1,5 @@
 ---
 title: Comments
-icon: code
 category:
   - Practise
 ---

@@ -1,6 +1,5 @@
 ---
 title: Interface Segregation
-icon: storage
 category:
   - Principle
 ---

@@ -1,6 +1,5 @@
 ---
 title: Cohesion
-icon: workingDirectory
 category:
   - Glossary
 ---

@@ -1,6 +1,5 @@
 ---
 title: Extraction Method
-icon: emmet
 category:
   - Method
 ---

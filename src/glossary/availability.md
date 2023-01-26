@@ -1,6 +1,5 @@
 ---
 title: Availability
-icon: workingDirectory
 category:
   - Glossary
 ---

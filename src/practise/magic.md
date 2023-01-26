@@ -1,6 +1,5 @@
 ---
 title: Magic Numbers
-icon: link
 category:
   - Practise
 ---

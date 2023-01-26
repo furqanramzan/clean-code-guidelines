@@ -1,6 +1,5 @@
 ---
 title: You Aren't Gonna Need It
-icon: result
 category:
   - Principle
 ---

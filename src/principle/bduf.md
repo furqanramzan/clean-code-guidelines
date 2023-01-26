@@ -1,6 +1,5 @@
 ---
 title: Big Design Upfront
-icon: edit
 category:
   - Principle
 ---

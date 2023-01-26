@@ -1,6 +1,5 @@
 ---
 title: Least Astonishment
-icon: class
 category:
   - Principle
 ---
