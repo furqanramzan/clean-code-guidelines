@@ -1,4 +1,4 @@
-# Clean Code Guidelines
+# Clean Code Guidelines - [Live Demo](https://clean-code-guidelines.vercel.app/)
 
 Look at the [VuePress Theme Hope](https://theme-hope.vuejs.press/) to learn more.
 
