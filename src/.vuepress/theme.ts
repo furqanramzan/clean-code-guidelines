@@ -6,8 +6,8 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "Muhammad Furqan",
+    url: "https://github.com/furqanramzan",
   },
 
   iconAssets: "iconfont",
@@ -28,7 +28,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "Clean Code Guidelines",
 
       displayFooter: true,
 
@@ -53,7 +53,7 @@ export default hopeTheme({
       imgSize: true,
       include: true,
       katex: true,
-      lazyLoad: true,
+      imgLazyload: true,
       mark: true,
       mermaid: true,
       playground: {

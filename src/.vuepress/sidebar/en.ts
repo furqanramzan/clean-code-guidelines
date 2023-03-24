@@ -2,15 +2,6 @@ import { sidebar } from "vuepress-theme-hope";
 
 export const enSidebar = sidebar({
   "/": [
-    "",
-    {
-      icon: "discover",
-      text: "Demo",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
-      collapsible: true,
-    },
     {
       text: "Practise",
       icon: "note",
@@ -20,32 +11,31 @@ export const enSidebar = sidebar({
     },
     {
       text: "Principle",
-      icon: "note",
+      icon: "sitemap",
       prefix: "principle/",
       children: "structure",
       collapsible: true,
     },
     {
       text: "Methods",
-      icon: "note",
+      icon: "comment",
       prefix: "method/",
       children: "structure",
       collapsible: true,
     },
     {
       text: "Design Patterns",
-      icon: "note",
+      icon: "layout",
       prefix: "design-pattern/",
       children: "structure",
       collapsible: true,
     },
     {
       text: "Glossary",
-      icon: "note",
+      icon: "info",
       prefix: "glossary/",
       children: "structure",
       collapsible: true,
     },
-    "slides",
   ],
 });
