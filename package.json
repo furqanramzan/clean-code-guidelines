@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-theme-hope-template",
+  "name": "clean-code-guidelines",
   "version": "2.0.0",
   "description": "A project of vuepress-theme-hope",
   "license": "MIT",
@@ -10,9 +10,9 @@
     "dev": "vuepress dev src"
   },
   "devDependencies": {
-    "@vuepress/client": "2.0.0-beta.60",
-    "vue": "^3.2.45",
-    "vuepress": "2.0.0-beta.60",
-    "vuepress-theme-hope": "2.0.0-beta.168"
+    "@vuepress/client": "2.0.0-beta.66",
+    "vue": "^3.3.4",
+    "vuepress": "2.0.0-beta.66",
+    "vuepress-theme-hope": "2.0.0-beta.235"
   }
 }
