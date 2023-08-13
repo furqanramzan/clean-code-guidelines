@@ -3,7 +3,7 @@ import { enNavbar } from "./navbar/index.js";
 import { enSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://clean-code-guidelines.vercel.app",
+  hostname: "https://furqanramzan.github.io/clean-code-guidelines",
 
   author: {
     name: "Muhammad Furqan",
