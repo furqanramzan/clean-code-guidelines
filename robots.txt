@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://furqanramzan.github.io/clean-code-guidelines/clean-code-guidelines/sitemap.xml
